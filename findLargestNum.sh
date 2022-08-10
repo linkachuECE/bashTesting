@@ -1,3 +1,4 @@
+#!/bin/bash
 realNumRegex="^\-?[0-9]+(\.[0-9]+)?$"
 
 for x in $@; do

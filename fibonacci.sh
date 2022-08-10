@@ -1,3 +1,4 @@
+#!/bin/bash
 fib () {
     returnString=""
     endValue=$1

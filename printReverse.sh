@@ -1,3 +1,4 @@
+#!/bin/bash
 mainString=$1
 finalString=""
 

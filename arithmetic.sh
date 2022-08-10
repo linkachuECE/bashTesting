@@ -1,3 +1,4 @@
+#!/bin/bash
 while true; do
     echo -n "Enter string of single digit numbers followed by an operator: "
     read string
